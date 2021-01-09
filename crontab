@@ -1,1 +1,1 @@
-0 4 * * * sudo docker run --rm  reboot_router:latest
+0 4 * * * root docker run --rm  reboot_router:latest
